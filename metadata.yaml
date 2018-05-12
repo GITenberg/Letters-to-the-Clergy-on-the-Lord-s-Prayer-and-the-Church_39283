@@ -1,0 +1,37 @@
+_repo: Letters-to-the-Clergy-on-the-Lord-s-Prayer-and-the-Church_39283
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ruskin, John
+    alias: Ruskin, J. (John)
+    birthdate: &id001 1819
+    deathdate: 1900
+    gutenberg_agent_id: '359'
+    url: http://www.gutenberg.org/2009/agents/359
+    wikipedia: http://en.wikipedia.org/wiki/John_Ruskin
+  editor:
+    agent_name: Malleson, F. A. (Frederick Amadeus)
+    alias: Malleson, Frederick Amadeus
+    birthdate: *id001
+    deathdate: 1897
+    gutenberg_agent_id: '35271'
+    url: http://www.gutenberg.org/2009/agents/35271
+description: ''
+gutenberg_issued: '2012-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39283'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ruskin, John, 1819-1900 -- Correspondence'
+- !lcsh 'Church of England -- Clergy'
+- !lcc 'BV'
+- !lcsh 'Lord''s prayer'
+title: Letters to the Clergy on the Lord's Prayer and the Church
+url: http://www.gutenberg.org/ebooks/39283
