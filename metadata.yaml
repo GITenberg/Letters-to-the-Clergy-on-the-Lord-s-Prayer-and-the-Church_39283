@@ -7,7 +7,7 @@ creator:
   author:
     agent_name: Ruskin, John
     alias: Ruskin, J. (John)
-    birthdate: &id001 1819
+    birthdate: 1819
     deathdate: 1900
     gutenberg_agent_id: '359'
     url: http://www.gutenberg.org/2009/agents/359
@@ -15,11 +15,13 @@ creator:
   editor:
     agent_name: Malleson, F. A. (Frederick Amadeus)
     alias: Malleson, Frederick Amadeus
-    birthdate: *id001
+    birthdate: 1819
     deathdate: 1897
     gutenberg_agent_id: '35271'
     url: http://www.gutenberg.org/2009/agents/35271
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39283#Letters-to-the-Clergy-on-the-Lord-s-Prayer-and-the-Church
 gutenberg_issued: '2012-03-27'
 gutenberg_type: Text
 identifiers:
